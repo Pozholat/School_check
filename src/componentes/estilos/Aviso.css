@@ -1,0 +1,25 @@
+.tituloaviso {
+  display: flex;
+  justify-content: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  font-size: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px; }
+
+.cuerpoaviso {
+  display: flex;
+  justify-content: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  margin-bottom: 20px; }
+
+.avisolink {
+  display: flex;
+  justify-content: right;
+  margin-right: 70px;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  margin-bottom: 30px; }
